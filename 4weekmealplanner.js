@@ -12,7 +12,7 @@
  * - Dropdown validation for easy meal swapping
  * 
  * @author jxdata
- * @version 1.1.0
+ * @version 2.0
  * @created December 23, 2025
  * @license All rights reserved
  */
