@@ -76,13 +76,14 @@ Built-in instructions inside the spreadsheet walk through:
 
 ## 🚀 Getting Started
 
-1. Open the Google Sheet  
-2. Click **File → Make a copy**  
-3. When prompted, allow permissions  
-   - Google will show a warning. This is normal.  
-   - Click **Advanced → Go to Meal Planner (unsafe)** → Allow  
-4. Add recipe names to the **Recipes** sheet  
-5. Use the menu: **Meal Planner → Generate Meal Plan**
+1. Create a new Google Sheet at sheets.google.com
+2. Go to **Extensions → Apps Script**
+3. Copy the entire contents of `meal-planner.gs` from this repository
+4. Paste into the Apps Script editor
+5. Return to your Google Sheet and refresh the page
+6. The "Meal Planner" menu should now appear
+7. Add recipe names to the **Recipes** sheet
+8. Click **Meal Planner → Generate Meal Plan**
 
 ---
 
